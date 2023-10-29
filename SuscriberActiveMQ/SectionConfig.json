@@ -1,0 +1,12 @@
+﻿{
+	"id":"",
+	"name":"",
+	"uri":"tcp://172.25.24.212:61616",
+	"mssgBoxes":[
+		{
+			"recipient":"",
+			"deserializerId":""
+		}
+	],
+	"mssgBoxType": "" //topic o queue
+}

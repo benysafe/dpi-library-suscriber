@@ -1,0 +1,13 @@
+﻿{
+	"id": "",
+	"name": "",
+	"host":"",
+	"port":"",
+	"concurrentThread":"",
+	"mssgBoxes": [
+		{
+			"recipient": "",
+			"deserializerId": ""
+		}
+	]
+}

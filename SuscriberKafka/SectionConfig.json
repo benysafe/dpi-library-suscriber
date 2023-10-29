@@ -1,0 +1,20 @@
+﻿{
+	"id": "",
+	"name": "",
+	"bootstrapServers": "",
+	"schema": {
+		"schemaRegistryUrls": "",
+		"schemaType": "" //["avro"]
+	},
+	"groupId": "",
+	"autoCommit":, //true or false
+	"autoOffsetStore":, //true or false
+	"maxPollIntervalMs":, //int
+	"autoOffsetReset": "", //["Latest","Earliest" o "Error]
+	"mssgBoxes": [
+		{
+			"recipient": "", //topicName
+			"deserializerId": ""
+		}
+	]
+}
